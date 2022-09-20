@@ -1,0 +1,20 @@
+.thumbs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* .thumbs > button:first-child {
+    margin-bottom: 16px;
+} */
+
+.thumbs > span {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.thumbs > button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}

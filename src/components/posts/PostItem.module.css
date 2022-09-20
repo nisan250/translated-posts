@@ -1,0 +1,18 @@
+.article-wrapper {
+  display: flex;
+  margin-top: 18px;
+}
+
+.article {
+  background: #fafafa;
+  width: 500px;
+  padding: 15px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  margin: 0 10px;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+}
